@@ -14,8 +14,8 @@ namespace ConsoleApp4
             Console.WriteLine("Как васм зовут?");
             data = Console.ReadLine();
             Console.WriteLine("Привет "+data+"!!!");
+            Console.ReadLine();
 
-            
         }
     }
 }
