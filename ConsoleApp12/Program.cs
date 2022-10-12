@@ -37,11 +37,9 @@ namespace ConsoleApp12
                         Console.WriteLine("вы нажали пробел");
                         break;
                     }
-
-
-                }
-
-            }
+                };
+            Console.ReadLine();
+            
         }
     }
 }
